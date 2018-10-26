@@ -1,2 +1,0 @@
-# stravaapp
-Strava API development
